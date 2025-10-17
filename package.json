@@ -2,7 +2,9 @@
   "name": "tae-character-builder",
   "version": "1.0.0",
   "private": true,
-  "scripts": { "dev": "next dev" },
+  "scripts": {
+    "dev": "next dev"
+  },
   "dependencies": {
     "next": "14.2.3",
     "react": "18.2.0",
